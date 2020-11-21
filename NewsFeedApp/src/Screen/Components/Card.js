@@ -30,14 +30,6 @@ const CustomCard = (props) => {
                   <Text>Show More</Text>
                 </Button>
               </Left>
-              <Body>
-                <Button transparent>
-                  <Text>4 Comments</Text>
-                </Button>
-              </Body>
-              <Right>
-                <Text>11h ago</Text>
-              </Right>
             </CardItem>
           </Card>
         </Content>
